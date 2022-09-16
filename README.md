@@ -1,4 +1,6 @@
-# 30-Days-of-JavaScript
+# 30 Days of JavaScript
+
+## I'm accepting the [30 Days of JavaScript Challenge](https://github.com/Asabeneh/30-Days-Of-JavaScript) by Asabeneh to continue learning JavaScript.
 
 
 | Day    | Topics |
